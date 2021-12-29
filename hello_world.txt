@@ -1,1 +1,5 @@
 Adding text, because that's what it says to do.
+
+Always write in the imperative.
+
+If applied, this commit will.... [COMMIT MESSAGE HERE, should finish this sentence]
